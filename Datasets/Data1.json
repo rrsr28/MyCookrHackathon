@@ -1,0 +1,2848 @@
+[
+  {
+    "Item": "Masala Dosa",
+    "Categories": [
+      "South Indian",
+      "Breakfast",
+      "Protein Rich",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Butter Chicken",
+    "Categories": [
+      "North Indian",
+      "Punjabi",
+      "Non-Veg",
+      "Protein Rich"
+    ]
+  },
+  {
+    "Item": "Upma",
+    "Categories": [
+      "South Indian",
+      "Breakfast",
+      "Diabetic Friendly",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Rajma Chawal",
+    "Categories": [
+      "North Indian",
+      "Punjabi",
+      "Non-Veg",
+      "Protein Rich",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Poha",
+    "Categories": [
+      "North Indian",
+      "Breakfast",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Baked Salmon",
+    "Categories": [
+      "Non-Veg",
+      "Baked Items",
+      "Protein Rich"
+    ]
+  },
+  {
+    "Item": "Idly",
+    "Categories": [
+      "South Indian",
+      "Breakfast",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Millet Salad",
+    "Categories": [
+      "Protein Rich",
+      "Millets Based",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Chicken Vindaloo",
+    "Categories": [
+      "North Indian",
+      "Punjabi",
+      "Non-Veg",
+      "Protein Rich"
+    ]
+  },
+  {
+    "Item": "Spinach Quiche",
+    "Categories": [
+      "Baked Items",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Ragi Ladoo",
+    "Categories": [
+      "South Indian",
+      "Diabetic Friendly",
+      "Protein Rich",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Dal Makhani",
+    "Categories": [
+      "North Indian",
+      "Punjabi",
+      "Non-Veg",
+      "Protein Rich",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Oats Pancake",
+    "Categories": [
+      "Breakfast",
+      "Diabetic Friendly",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Mango Smoothie",
+    "Categories": [
+      "Breakfast",
+      "Pregnancy Friendly",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Paneer Tikka",
+    "Categories": [
+      "North Indian",
+      "Punjabi",
+      "Non-Veg",
+      "Protein Rich",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Bajra Khichdi",
+    "Categories": [
+      "Millets Based",
+      "Diabetic Friendly",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Egg Bhurji",
+    "Categories": [
+      "Non-Veg",
+      "Protein Rich"
+    ]
+  },
+  {
+    "Item": "Avocado Toast",
+    "Categories": [
+      "Breakfast",
+      "Protein Rich",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Rasam Rice",
+    "Categories": [
+      "South Indian",
+      "Non-Veg"
+    ]
+  },
+  {
+    "Item": "Quinoa Salad",
+    "Categories": [
+      "Protein Rich",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Veg Biryani",
+    "Categories": [
+      "North Indian",
+      "Punjabi",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Fish Tacos",
+    "Categories": [
+      "Non-Veg",
+      "Seafood"
+    ]
+  },
+  {
+    "Item": "Fruit Smoothie",
+    "Categories": [
+      "Breakfast",
+      "Vegetarian",
+      "Healthy"
+    ]
+  },
+  {
+    "Item": "Chole Bhature",
+    "Categories": [
+      "North Indian",
+      "Punjabi",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Grilled Chicken Salad",
+    "Categories": [
+      "Non-Veg",
+      "Protein Rich",
+      "Healthy"
+    ]
+  },
+  {
+    "Item": "Chocolate Cake",
+    "Categories": [
+      "Baked Items",
+      "Dessert",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Tomato Basil Pasta",
+    "Categories": [
+      "Italian",
+      "Pasta",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Shrimp Stir Fry",
+    "Categories": [
+      "Non-Veg",
+      "Asian",
+      "Stir Fry",
+      "Seafood"
+    ]
+  },
+  {
+    "Item": "Fruit Salad",
+    "Categories": [
+      "Healthy",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Cauliflower Pizza",
+    "Categories": [
+      "Baked Items",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Vegetable Noodles",
+    "Categories": [
+      "Asian",
+      "Noodles",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Grilled Salmon",
+    "Categories": [
+      "Non-Veg",
+      "Protein Rich",
+      "Seafood"
+    ]
+  },
+  {
+    "Item": "Cucumber Sandwich",
+    "Categories": [
+      "Healthy",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Mushroom Risotto",
+    "Categories": [
+      "Italian",
+      "Risotto",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Tandoori Roti",
+    "Categories": [
+      "North Indian",
+      "Bread",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Chicken Shawarma",
+    "Categories": [
+      "Middle Eastern",
+      "Non-Veg"
+    ]
+  },
+  {
+    "Item": "Chia Seed Pudding",
+    "Categories": [
+      "Breakfast",
+      "Healthy",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Beef Tacos",
+    "Categories": [
+      "Mexican",
+      "Non-Veg"
+    ]
+  },
+  {
+    "Item": "Pineapple Fried Rice",
+    "Categories": [
+      "Asian",
+      "Rice",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Vegan Burger",
+    "Categories": [
+      "Burger",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Greek Salad",
+    "Categories": [
+      "Mediterranean",
+      "Healthy",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Mutton Curry",
+    "Categories": [
+      "Indian",
+      "Non-Veg"
+    ]
+  },
+  {
+    "Item": "Cabbage Soup",
+    "Categories": [
+      "Soup",
+      "Healthy",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Beetroot Halwa",
+    "Categories": [
+      "Dessert",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Pesto Pasta",
+    "Categories": [
+      "Italian",
+      "Pasta",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Cajun Shrimp",
+    "Categories": [
+      "Non-Veg",
+      "Seafood"
+    ]
+  },
+  {
+    "Item": "Sweet Potato Fries",
+    "Categories": [
+      "Snack",
+      "Healthy",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Lentil Soup",
+    "Categories": [
+      "Soup",
+      "Healthy",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Sushi Roll",
+    "Categories": [
+      "Japanese",
+      "Sushi",
+      "Seafood"
+    ]
+  },
+  {
+    "Item": "Eggplant Parmesan",
+    "Categories": [
+      "Italian",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Honey Glazed Carrots",
+    "Categories": [
+      "Side Dish",
+      "Healthy",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Chicken Satay",
+    "Categories": [
+      "Asian",
+      "Appetizer",
+      "Non-Veg"
+    ]
+  },
+  {
+    "Item": "Blueberry Pancakes",
+    "Categories": [
+      "Breakfast",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Turkey Chili",
+    "Categories": [
+      "Non-Veg",
+      "Healthy"
+    ]
+  },
+  {
+    "Item": "Aloo Gobi",
+    "Categories": [
+      "Indian",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Pumpkin Soup",
+    "Categories": [
+      "Soup",
+      "Healthy",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Teriyaki Tofu",
+    "Categories": [
+      "Asian",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Mango Lassi",
+    "Categories": [
+      "North Indian",
+      "Punjabi",
+      "Beverage",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Chicken Korma",
+    "Categories": [
+      "North Indian",
+      "Non-Veg",
+      "Curry"
+    ]
+  },
+  {
+    "Item": "Pani Puri",
+    "Categories": [
+      "Street Food",
+      "Snack",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Coconut Chutney",
+    "Categories": [
+      "South Indian",
+      "Chutney",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Prawn Curry",
+    "Categories": [
+      "South Indian",
+      "Non-Veg",
+      "Curry"
+    ]
+  },
+  {
+    "Item": "Gulab Jamun",
+    "Categories": [
+      "Dessert",
+      "Sweet",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Chicken Biryani",
+    "Categories": [
+      "North Indian",
+      "Punjabi",
+      "Non-Veg",
+      "Biryani"
+    ]
+  },
+  {
+    "Item": "Palak Paneer",
+    "Categories": [
+      "North Indian",
+      "Vegetarian",
+      "Curry"
+    ]
+  },
+  {
+    "Item": "Tomato Soup",
+    "Categories": [
+      "Soup",
+      "Healthy",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Fish Curry",
+    "Categories": [
+      "South Indian",
+      "Non-Veg",
+      "Curry"
+    ]
+  },
+  {
+    "Item": "Chapati",
+    "Categories": [
+      "North Indian",
+      "Bread",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Vada Pav",
+    "Categories": [
+      "Street Food",
+      "Snack",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Chicken Tikka Masala",
+    "Categories": [
+      "North Indian",
+      "Punjabi",
+      "Non-Veg",
+      "Curry"
+    ]
+  },
+  {
+    "Item": "Dhokla",
+    "Categories": [
+      "Gujarati",
+      "Snack",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Lemon Rice",
+    "Categories": [
+      "South Indian",
+      "Rice",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Samosa",
+    "Categories": [
+      "Snack",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Rasgulla",
+    "Categories": [
+      "Dessert",
+      "Sweet",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Tandoori Chicken",
+    "Categories": [
+      "North Indian",
+      "Punjabi",
+      "Non-Veg"
+    ]
+  },
+  {
+    "Item": "Mushroom Curry",
+    "Categories": [
+      "Vegetarian",
+      "Curry"
+    ]
+  },
+  {
+    "Item": "Raita",
+    "Categories": [
+      "North Indian",
+      "Punjabi",
+      "Side Dish",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Egg Curry",
+    "Categories": [
+      "North Indian",
+      "Non-Veg",
+      "Curry"
+    ]
+  },
+  {
+    "Item": "Aloo Paratha",
+    "Categories": [
+      "North Indian",
+      "Punjabi",
+      "Bread",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Cabbage Manchurian",
+    "Categories": [
+      "Indo-Chinese",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Chicken Noodles",
+    "Categories": [
+      "Asian",
+      "Noodles",
+      "Non-Veg"
+    ]
+  },
+  {
+    "Item": "Beetroot Salad",
+    "Categories": [
+      "Salad",
+      "Healthy",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Mutton Biryani",
+    "Categories": [
+      "North Indian",
+      "Non-Veg",
+      "Biryani"
+    ]
+  },
+  {
+    "Item": "Cucumber Raita",
+    "Categories": [
+      "North Indian",
+      "Punjabi",
+      "Side Dish",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Pumpkin Halwa",
+    "Categories": [
+      "Dessert",
+      "Sweet",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Chicken Tandoori Pizza",
+    "Categories": [
+      "Pizza",
+      "Non-Veg"
+    ]
+  },
+  {
+    "Item": "Gobi Manchurian",
+    "Categories": [
+      "Indo-Chinese",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Keema Paratha",
+    "Categories": [
+      "North Indian",
+      "Punjabi",
+      "Bread",
+      "Non-Veg"
+    ]
+  },
+  {
+    "Item": "Paneer Butter Masala",
+    "Categories": [
+      "North Indian",
+      "Punjabi",
+      "Vegetarian",
+      "Curry"
+    ]
+  },
+  {
+    "Item": "Mango Pickle",
+    "Categories": [
+      "South Indian",
+      "Pickles",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Chapati Rolls",
+    "Categories": [
+      "North Indian",
+      "Bread",
+      "Snack",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Hyderabadi Biryani",
+    "Categories": [
+      "South Indian",
+      "Non-Veg",
+      "Biryani"
+    ]
+  },
+  {
+    "Item": "Masoor Dal",
+    "Categories": [
+      "North Indian",
+      "Vegetarian",
+      "Curry"
+    ]
+  },
+  {
+    "Item": "Chocolate Brownie",
+    "Categories": [
+      "Dessert",
+      "Baked Items",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Gajar Halwa",
+    "Categories": [
+      "Dessert",
+      "Sweet",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Chicken Kebabs",
+    "Categories": [
+      "Non-Veg",
+      "Appetizer"
+    ]
+  },
+  {
+    "Item": "Cauliflower Manchurian",
+    "Categories": [
+      "Indo-Chinese",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Rumali Roti",
+    "Categories": [
+      "North Indian",
+      "Bread",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Chicken Curry",
+    "Categories": [
+      "North Indian",
+      "Punjabi",
+      "Non-Veg",
+      "Curry"
+    ]
+  },
+  {
+    "Item": "Baingan Bharta",
+    "Categories": [
+      "North Indian",
+      "Punjabi",
+      "Vegetarian",
+      "Curry"
+    ]
+  },
+  {
+    "Item": "Chocolate Milkshake",
+    "Categories": [
+      "Beverage",
+      "Sweet",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Aloo Tikki",
+    "Categories": [
+      "Street Food",
+      "Snack",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Fish Fry",
+    "Categories": [
+      "South Indian",
+      "Non-Veg",
+      "Fried Items"
+    ]
+  },
+  {
+    "Item": "Vegetable Pulao",
+    "Categories": [
+      "North Indian",
+      "Rice",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Chicken Soup",
+    "Categories": [
+      "Soup",
+      "Non-Veg"
+    ]
+  },
+  {
+    "Item": "Ghee Rice",
+    "Categories": [
+      "South Indian",
+      "Rice",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Egg Fried Rice",
+    "Categories": [
+      "Asian",
+      "Rice",
+      "Non-Veg"
+    ]
+  },
+  {
+    "Item": "Cabbage Sabzi",
+    "Categories": [
+      "North Indian",
+      "Vegetarian",
+      "Curry"
+    ]
+  },
+  {
+    "Item": "Mixed Vegetable Curry",
+    "Categories": [
+      "North Indian",
+      "Vegetarian",
+      "Curry"
+    ]
+  },
+  {
+    "Item": "Papdi Chaat",
+    "Categories": [
+      "Street Food",
+      "Snack",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Mango Salsa",
+    "Categories": [
+      "Mexican",
+      "Salsa",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Chicken Sandwich",
+    "Categories": [
+      "Sandwich",
+      "Non-Veg"
+    ]
+  },
+  {
+    "Item": "Shahi Paneer",
+    "Categories": [
+      "North Indian",
+      "Punjabi",
+      "Vegetarian",
+      "Curry"
+    ]
+  },
+  {
+    "Item": "Rava Kesari",
+    "Categories": [
+      "Dessert",
+      "Sweet",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Chilli Chicken",
+    "Categories": [
+      "Indo-Chinese",
+      "Non-Veg"
+    ]
+  },
+  {
+    "Item": "Vegetable Samosa",
+    "Categories": [
+      "Snack",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Lemon Chicken",
+    "Categories": [
+      "Non-Veg",
+      "Curry"
+    ]
+  },
+  {
+    "Item": "Spinach Dal",
+    "Categories": [
+      "North Indian",
+      "Vegetarian",
+      "Curry"
+    ]
+  },
+  {
+    "Item": "Chicken Nihari",
+    "Categories": [
+      "North Indian",
+      "Punjabi",
+      "Non-Veg",
+      "Curry"
+    ]
+  },
+  {
+    "Item": "Pav Bhaji",
+    "Categories": [
+      "Street Food",
+      "Snack",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Badam Milk",
+    "Categories": [
+      "Beverage",
+      "Sweet",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Chana Masala",
+    "Categories": [
+      "North Indian",
+      "Punjabi",
+      "Vegetarian",
+      "Curry"
+    ]
+  },
+  {
+    "Item": "Chicken Lollipop",
+    "Categories": [
+      "Non-Veg",
+      "Appetizer"
+    ]
+  },
+  {
+    "Item": "Vegetable Hakka Noodles",
+    "Categories": [
+      "Indo-Chinese",
+      "Noodles",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Mint Chutney",
+    "Categories": [
+      "South Indian",
+      "Chutney",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Kadai Paneer",
+    "Categories": [
+      "North Indian",
+      "Punjabi",
+      "Vegetarian",
+      "Curry"
+    ]
+  },
+  {
+    "Item": "Chapati Pizza",
+    "Categories": [
+      "North Indian",
+      "Bread",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Chicken 65",
+    "Categories": [
+      "South Indian",
+      "Non-Veg",
+      "Appetizer"
+    ]
+  },
+  {
+    "Item": "Pesarattu",
+    "Categories": [
+      "South Indian",
+      "Breakfast",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Chicken Reshmi Kebab",
+    "Categories": [
+      "Non-Veg",
+      "Appetizer"
+    ]
+  },
+  {
+    "Item": "Aloo Matar",
+    "Categories": [
+      "North Indian",
+      "Vegetarian",
+      "Curry"
+    ]
+  },
+  {
+    "Item": "Mango Chutney",
+    "Categories": [
+      "South Indian",
+      "Chutney",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Fish Biryani",
+    "Categories": [
+      "South Indian",
+      "Non-Veg",
+      "Biryani"
+    ]
+  },
+  {
+    "Item": "Crispy Bhindi",
+    "Categories": [
+      "North Indian",
+      "Vegetarian",
+      "Fried Items"
+    ]
+  },
+  {
+    "Item": "Chicken Ghee Roast",
+    "Categories": [
+      "South Indian",
+      "Non-Veg"
+    ]
+  },
+  {
+    "Item": "Mysore Pak",
+    "Categories": [
+      "Dessert",
+      "Sweet",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Egg Roll",
+    "Categories": [
+      "Street Food",
+      "Snack",
+      "Non-Veg"
+    ]
+  },
+  {
+    "Item": "Cabbage Kofta",
+    "Categories": [
+      "North Indian",
+      "Vegetarian",
+      "Curry"
+    ]
+  },
+  {
+    "Item": "Rajma Masala",
+    "Categories": [
+      "North Indian",
+      "Vegetarian",
+      "Curry"
+    ]
+  },
+  {
+    "Item": "Prawn Masala",
+    "Categories": [
+      "South Indian",
+      "Non-Veg",
+      "Curry"
+    ]
+  },
+  {
+    "Item": "Paneer Bhurji",
+    "Categories": [
+      "North Indian",
+      "Punjabi",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Chicken Malai Kebab",
+    "Categories": [
+      "Non-Veg",
+      "Appetizer"
+    ]
+  },
+  {
+    "Item": "Dahi Puri",
+    "Categories": [
+      "Street Food",
+      "Snack",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Egg Curry Masala",
+    "Categories": [
+      "North Indian",
+      "Non-Veg",
+      "Curry"
+    ]
+  },
+  {
+    "Item": "Thalassery Chicken Biriyani",
+    "Categories": [
+      "South Indian",
+      "Non-Veg",
+      "Biryani"
+    ]
+  },
+  {
+    "Item": "Bread Upma",
+    "Categories": [
+      "South Indian",
+      "Breakfast",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Chicken Chettinad",
+    "Categories": [
+      "South Indian",
+      "Non-Veg",
+      "Curry"
+    ]
+  },
+  {
+    "Item": "Punjabi Lassi",
+    "Categories": [
+      "North Indian",
+      "Punjabi",
+      "Beverage",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Hyderabadi Haleem",
+    "Categories": [
+      "South Indian",
+      "Non-Veg",
+      "Curry"
+    ]
+  },
+  {
+    "Item": "Vegetable Cutlet",
+    "Categories": [
+      "Snack",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Andhra Chicken Curry",
+    "Categories": [
+      "South Indian",
+      "Non-Veg",
+      "Curry"
+    ]
+  },
+  {
+    "Item": "Aloo Gobi Masala",
+    "Categories": [
+      "North Indian",
+      "Vegetarian",
+      "Curry"
+    ]
+  },
+  {
+    "Item": "Mango Pulao",
+    "Categories": [
+      "South Indian",
+      "Rice",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Mutton Korma",
+    "Categories": [
+      "North Indian",
+      "Non-Veg",
+      "Curry"
+    ]
+  },
+  {
+    "Item": "Masala Chai",
+    "Categories": [
+      "Beverage",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Egg Curry Dhaba Style",
+    "Categories": [
+      "North Indian",
+      "Non-Veg",
+      "Curry"
+    ]
+  },
+  {
+    "Item": "Papaya Salad",
+    "Categories": [
+      "Salad",
+      "Healthy",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Ragi Mudde",
+    "Categories": [
+      "South Indian",
+      "Main Course",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Fish Masala",
+    "Categories": [
+      "South Indian",
+      "Non-Veg",
+      "Curry"
+    ]
+  },
+  {
+    "Item": "Dal Baati Churma",
+    "Categories": [
+      "Rajasthani",
+      "Main Course",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Chicken Kofta Curry",
+    "Categories": [
+      "North Indian",
+      "Non-Veg",
+      "Curry"
+    ]
+  },
+  {
+    "Item": "Pesarattu Upma",
+    "Categories": [
+      "South Indian",
+      "Breakfast",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Buttermilk Fried Chicken",
+    "Categories": [
+      "Non-Veg",
+      "Fried Items"
+    ]
+  },
+  {
+    "Item": "Gulab Jamun Cheesecake",
+    "Categories": [
+      "Dessert",
+      "Cheesecake",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Spicy Tamarind Chicken",
+    "Categories": [
+      "Non-Veg",
+      "Curry"
+    ]
+  },
+  {
+    "Item": "Mango Kheer",
+    "Categories": [
+      "Dessert",
+      "Kheer",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Pumpkin Poriyal",
+    "Categories": [
+      "South Indian",
+      "Vegetarian",
+      "Curry"
+    ]
+  },
+  {
+    "Item": "Jeera Rice",
+    "Categories": [
+      "North Indian",
+      "Rice",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Chicken Keema",
+    "Categories": [
+      "North Indian",
+      "Punjabi",
+      "Non-Veg",
+      "Curry"
+    ]
+  },
+  {
+    "Item": "Bhindi Masala",
+    "Categories": [
+      "North Indian",
+      "Vegetarian",
+      "Curry"
+    ]
+  },
+  {
+    "Item": "Chicken Saag",
+    "Categories": [
+      "North Indian",
+      "Punjabi",
+      "Non-Veg",
+      "Curry"
+    ]
+  },
+  {
+    "Item": "Lauki Kofta",
+    "Categories": [
+      "North Indian",
+      "Vegetarian",
+      "Curry"
+    ]
+  },
+  {
+    "Item": "Coconut Rice",
+    "Categories": [
+      "South Indian",
+      "Rice",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Chicken Do Pyaza",
+    "Categories": [
+      "North Indian",
+      "Punjabi",
+      "Non-Veg",
+      "Curry"
+    ]
+  },
+  {
+    "Item": "Aloo Methi",
+    "Categories": [
+      "North Indian",
+      "Vegetarian",
+      "Curry"
+    ]
+  },
+  {
+    "Item": "Fish Curry with Tamarind",
+    "Categories": [
+      "South Indian",
+      "Non-Veg",
+      "Curry"
+    ]
+  },
+  {
+    "Item": "Paneer Makhani",
+    "Categories": [
+      "North Indian",
+      "Punjabi",
+      "Vegetarian",
+      "Curry"
+    ]
+  },
+  {
+    "Item": "Masoor Dal Fry",
+    "Categories": [
+      "North Indian",
+      "Vegetarian",
+      "Curry"
+    ]
+  },
+  {
+    "Item": "Soya Chaap",
+    "Categories": [
+      "North Indian",
+      "Vegetarian",
+      "Curry"
+    ]
+  },
+  {
+    "Item": "Mango Rasam",
+    "Categories": [
+      "South Indian",
+      "Vegetarian",
+      "Soup"
+    ]
+  },
+  {
+    "Item": "Bhindi Do Pyaza",
+    "Categories": [
+      "North Indian",
+      "Vegetarian",
+      "Curry"
+    ]
+  },
+  {
+    "Item": "Palak Chicken",
+    "Categories": [
+      "North Indian",
+      "Punjabi",
+      "Non-Veg",
+      "Curry"
+    ]
+  },
+  {
+    "Item": "Dahi Ke Kebab",
+    "Categories": [
+      "North Indian",
+      "Vegetarian",
+      "Kebab"
+    ]
+  },
+  {
+    "Item": "Chana Dal",
+    "Categories": [
+      "North Indian",
+      "Vegetarian",
+      "Curry"
+    ]
+  },
+  {
+    "Item": "Prawn Masala Fry",
+    "Categories": [
+      "South Indian",
+      "Non-Veg",
+      "Fried Items"
+    ]
+  },
+  {
+    "Item": "Methi Thepla",
+    "Categories": [
+      "Gujarati",
+      "Bread",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Chicken Handi",
+    "Categories": [
+      "North Indian",
+      "Punjabi",
+      "Non-Veg",
+      "Curry"
+    ]
+  },
+  {
+    "Item": "Dhansak",
+    "Categories": [
+      "Parsi",
+      "Non-Veg",
+      "Curry"
+    ]
+  },
+  {
+    "Item": "Goan Fish Curry",
+    "Categories": [
+      "Goan",
+      "Non-Veg",
+      "Curry"
+    ]
+  },
+  {
+    "Item": "Mushroom Matar",
+    "Categories": [
+      "North Indian",
+      "Vegetarian",
+      "Curry"
+    ]
+  },
+  {
+    "Item": "Chicken Jalfrezi",
+    "Categories": [
+      "North Indian",
+      "Punjabi",
+      "Non-Veg",
+      "Curry"
+    ]
+  },
+  {
+    "Item": "Kofta Curry",
+    "Categories": [
+      "North Indian",
+      "Vegetarian",
+      "Curry"
+    ]
+  },
+  {
+    "Item": "Chicken Sukka",
+    "Categories": [
+      "South Indian",
+      "Non-Veg",
+      "Dry Curry"
+    ]
+  },
+  {
+    "Item": "Dal Tadka",
+    "Categories": [
+      "North Indian",
+      "Vegetarian",
+      "Curry"
+    ]
+  },
+  {
+    "Item": "Kerala Chicken Curry",
+    "Categories": [
+      "Kerala",
+      "Non-Veg",
+      "Curry"
+    ]
+  },
+  {
+    "Item": "Hyderabadi Dum Biryani",
+    "Categories": [
+      "Hyderabadi",
+      "Non-Veg",
+      "Biryani"
+    ]
+  },
+  {
+    "Item": "Chicken Rogan Josh",
+    "Categories": [
+      "Kashmiri",
+      "Non-Veg",
+      "Curry"
+    ]
+  },
+  {
+    "Item": "Mutton Kofta",
+    "Categories": [
+      "North Indian",
+      "Non-Veg",
+      "Curry"
+    ]
+  },
+  {
+    "Item": "Gujarati Dhokla",
+    "Categories": [
+      "Gujarati",
+      "Snack",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Chicken Baida Roti",
+    "Categories": [
+      "Street Food",
+      "Non-Veg",
+      "Bread"
+    ]
+  },
+  {
+    "Item": "Malabar Fish Curry",
+    "Categories": [
+      "Kerala",
+      "Non-Veg",
+      "Curry"
+    ]
+  },
+  {
+    "Item": "Shahi Tukda",
+    "Categories": [
+      "Dessert",
+      "Sweet",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Chicken Kali Mirch",
+    "Categories": [
+      "North Indian",
+      "Punjabi",
+      "Non-Veg",
+      "Curry"
+    ]
+  },
+  {
+    "Item": "Masala Chaas",
+    "Categories": [
+      "North Indian",
+      "Beverage",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Chicken Malai Tikka",
+    "Categories": [
+      "North Indian",
+      "Punjabi",
+      "Non-Veg",
+      "Kebab"
+    ]
+  },
+  {
+    "Item": "Nihari",
+    "Categories": [
+      "North Indian",
+      "Punjabi",
+      "Non-Veg",
+      "Curry"
+    ]
+  },
+  {
+    "Item": "Kalaadi",
+    "Categories": [
+      "Kerala",
+      "Cheese",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Chicken Patiala",
+    "Categories": [
+      "North Indian",
+      "Punjabi",
+      "Non-Veg",
+      "Curry"
+    ]
+  },
+  {
+    "Item": "Tandoori Fish Tikka",
+    "Categories": [
+      "Non-Veg",
+      "Tandoori"
+    ]
+  },
+  {
+    "Item": "Prawn Biryani",
+    "Categories": [
+      "South Indian",
+      "Non-Veg",
+      "Biryani"
+    ]
+  },
+  {
+    "Item": "Fish Amritsari",
+    "Categories": [
+      "North Indian",
+      "Punjabi",
+      "Non-Veg",
+      "Fried Items"
+    ]
+  },
+  {
+    "Item": "Dhokla Sandwich",
+    "Categories": [
+      "Gujarati",
+      "Street Food",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Chicken Keema Paratha",
+    "Categories": [
+      "North Indian",
+      "Punjabi",
+      "Bread",
+      "Non-Veg"
+    ]
+  },
+  {
+    "Item": "Kesar Peda",
+    "Categories": [
+      "Dessert",
+      "Sweet",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Chicken Achari",
+    "Categories": [
+      "North Indian",
+      "Punjabi",
+      "Non-Veg",
+      "Curry"
+    ]
+  },
+  {
+    "Item": "Hyderabadi Baingan",
+    "Categories": [
+      "Hyderabadi",
+      "Vegetarian",
+      "Curry"
+    ]
+  },
+  {
+    "Item": "Mango Panna",
+    "Categories": [
+      "North Indian",
+      "Beverage",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Chicken Handi Biryani",
+    "Categories": [
+      "North Indian",
+      "Punjabi",
+      "Non-Veg",
+      "Biryani"
+    ]
+  },
+  {
+    "Item": "Matar Pulao",
+    "Categories": [
+      "North Indian",
+      "Rice",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Bombay Sandwich",
+    "Categories": [
+      "Street Food",
+      "Sandwich",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Aloo Jeera",
+    "Categories": [
+      "North Indian",
+      "Vegetarian",
+      "Curry"
+    ]
+  },
+  {
+    "Item": "Fish Tikka",
+    "Categories": [
+      "North Indian",
+      "Non-Veg",
+      "Tandoori"
+    ]
+  },
+  {
+    "Item": "Mango Sheera",
+    "Categories": [
+      "Dessert",
+      "Sweet",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Egg Masala",
+    "Categories": [
+      "North Indian",
+      "Non-Veg",
+      "Curry"
+    ]
+  },
+  {
+    "Item": "Mango Sorbet",
+    "Categories": [
+      "Dessert",
+      "Frozen",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Aloo Baingan",
+    "Categories": [
+      "North Indian",
+      "Vegetarian",
+      "Curry"
+    ]
+  },
+  {
+    "Item": "Chicken Kadai",
+    "Categories": [
+      "North Indian",
+      "Punjabi",
+      "Non-Veg",
+      "Curry"
+    ]
+  },
+  {
+    "Item": "Gulab Jamun Milkshake",
+    "Categories": [
+      "Beverage",
+      "Sweet",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Chana Chaat",
+    "Categories": [
+      "Street Food",
+      "Snack",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Malpua",
+    "Categories": [
+      "Dessert",
+      "Sweet",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Palak Puri",
+    "Categories": [
+      "North Indian",
+      "Punjabi",
+      "Bread",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Aamras Puri",
+    "Categories": [
+      "Gujarati",
+      "Bread",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Mango Rice",
+    "Categories": [
+      "South Indian",
+      "Rice",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Chicken Tikki Masala",
+    "Categories": [
+      "North Indian",
+      "Punjabi",
+      "Non-Veg",
+      "Curry"
+    ]
+  },
+  {
+    "Item": "Prawns Fry",
+    "Categories": [
+      "South Indian",
+      "Non-Veg",
+      "Fried Items"
+    ]
+  },
+  {
+    "Item": "Gajar Ka Halwa",
+    "Categories": [
+      "Dessert",
+      "Sweet",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Keema Matar",
+    "Categories": [
+      "North Indian",
+      "Punjabi",
+      "Non-Veg",
+      "Curry"
+    ]
+  },
+  {
+    "Item": "Rajasthani Kadhi",
+    "Categories": [
+      "Rajasthani",
+      "Vegetarian",
+      "Curry"
+    ]
+  },
+  {
+    "Item": "Sarson Da Saag",
+    "Categories": [
+      "Punjabi",
+      "Vegetarian",
+      "Curry"
+    ]
+  },
+  {
+    "Item": "Puri Bhaji",
+    "Categories": [
+      "Street Food",
+      "North Indian",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Chicken Curry Dhaba Style",
+    "Categories": [
+      "North Indian",
+      "Punjabi",
+      "Non-Veg",
+      "Curry"
+    ]
+  },
+  {
+    "Item": "Vegetable Biryani",
+    "Categories": [
+      "North Indian",
+      "Rice",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Chicken Butter Masala",
+    "Categories": [
+      "North Indian",
+      "Punjabi",
+      "Non-Veg",
+      "Curry"
+    ]
+  },
+  {
+    "Item": "Nargisi Kofta",
+    "Categories": [
+      "North Indian",
+      "Punjabi",
+      "Non-Veg",
+      "Curry"
+    ]
+  },
+  {
+    "Item": "Kadai Mushroom",
+    "Categories": [
+      "North Indian",
+      "Vegetarian",
+      "Curry"
+    ]
+  },
+  {
+    "Item": "Egg Paratha",
+    "Categories": [
+      "North Indian",
+      "Bread",
+      "Non-Veg"
+    ]
+  },
+  {
+    "Item": "Aloo Tikki Chaat",
+    "Categories": [
+      "Street Food",
+      "Snack",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Tomato Pulao",
+    "Categories": [
+      "South Indian",
+      "Rice",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Fish Moilee",
+    "Categories": [
+      "Kerala",
+      "Non-Veg",
+      "Curry"
+    ]
+  },
+  {
+    "Item": "Mango Mastani",
+    "Categories": [
+      "Beverage",
+      "Dessert",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Aloo Bhujia",
+    "Categories": [
+      "Snack",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Chicken Bharta",
+    "Categories": [
+      "North Indian",
+      "Punjabi",
+      "Non-Veg",
+      "Curry"
+    ]
+  },
+  {
+    "Item": "Mutton Baida Roti",
+    "Categories": [
+      "Street Food",
+      "Non-Veg",
+      "Bread"
+    ]
+  },
+  {
+    "Item": "Chicken Keema Samosa",
+    "Categories": [
+      "Snack",
+      "Non-Veg"
+    ]
+  },
+  {
+    "Item": "Aloo Pudina Tikki",
+    "Categories": [
+      "Street Food",
+      "Snack",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Nimbu Pani",
+    "Categories": [
+      "Beverage",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Chicken Afghani",
+    "Categories": [
+      "Non-Veg",
+      "Appetizer"
+    ]
+  },
+  {
+    "Item": "Baingan Raita",
+    "Categories": [
+      "North Indian",
+      "Punjabi",
+      "Side Dish",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Palak Dal",
+    "Categories": [
+      "North Indian",
+      "Vegetarian",
+      "Curry"
+    ]
+  },
+  {
+    "Item": "Chicken Liver Fry",
+    "Categories": [
+      "Non-Veg",
+      "Fried Items"
+    ]
+  },
+  {
+    "Item": "Prawn Koliwada",
+    "Categories": [
+      "Seafood",
+      "Fried Items"
+    ]
+  },
+  {
+    "Item": "Mango Coconut Chutney",
+    "Categories": [
+      "South Indian",
+      "Chutney",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Pani Puri Shots",
+    "Categories": [
+      "Street Food",
+      "Snack",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Chole Samosa Chaat",
+    "Categories": [
+      "Street Food",
+      "Snack",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Rava Upma",
+    "Categories": [
+      "South Indian",
+      "Breakfast",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Egg Hakka Noodles",
+    "Categories": [
+      "Indo-Chinese",
+      "Noodles",
+      "Non-Veg"
+    ]
+  },
+  {
+    "Item": "Puliyodarai",
+    "Categories": [
+      "South Indian",
+      "Rice",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Chicken Achari Biryani",
+    "Categories": [
+      "North Indian",
+      "Punjabi",
+      "Non-Veg",
+      "Biryani"
+    ]
+  },
+  {
+    "Item": "Fish Kuzhambu",
+    "Categories": [
+      "South Indian",
+      "Non-Veg",
+      "Curry"
+    ]
+  },
+  {
+    "Item": "Chicken Pulav",
+    "Categories": [
+      "North Indian",
+      "Rice",
+      "Non-Veg"
+    ]
+  },
+  {
+    "Item": "Prawn Pulao",
+    "Categories": [
+      "South Indian",
+      "Rice",
+      "Non-Veg"
+    ]
+  },
+  {
+    "Item": "Bisi Bele Bath",
+    "Categories": [
+      "South Indian",
+      "Rice",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Chicken Seekh Kebab",
+    "Categories": [
+      "North Indian",
+      "Non-Veg",
+      "Kebab"
+    ]
+  },
+  {
+    "Item": "Gulab Jamun Ice Cream",
+    "Categories": [
+      "Dessert",
+      "Ice Cream",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Moong Dal Cheela",
+    "Categories": [
+      "North Indian",
+      "Breakfast",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Fish Curry without Coconut",
+    "Categories": [
+      "South Indian",
+      "Non-Veg",
+      "Curry"
+    ]
+  },
+  {
+    "Item": "Aam Panna",
+    "Categories": [
+      "North Indian",
+      "Beverage",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Chicken Methi Malai",
+    "Categories": [
+      "North Indian",
+      "Punjabi",
+      "Non-Veg",
+      "Curry"
+    ]
+  },
+  {
+    "Item": "Mango Phirni",
+    "Categories": [
+      "Dessert",
+      "Phirni",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Tomato Rice",
+    "Categories": [
+      "South Indian",
+      "Rice",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Chicken Pakora",
+    "Categories": [
+      "Snack",
+      "Non-Veg",
+      "Fried Items"
+    ]
+  },
+  {
+    "Item": "Pineapple Rasam",
+    "Categories": [
+      "South Indian",
+      "Soup",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Litti Chokha",
+    "Categories": [
+      "Bihari",
+      "Main Course",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Mango Kalakand",
+    "Categories": [
+      "Dessert",
+      "Sweet",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Sambhar",
+    "Categories": [
+      "South Indian",
+      "Vegetarian",
+      "Curry"
+    ]
+  },
+  {
+    "Item": "Sattu Paratha",
+    "Categories": [
+      "North Indian",
+      "Bread",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Chettinad Egg Curry",
+    "Categories": [
+      "South Indian",
+      "Non-Veg",
+      "Curry"
+    ]
+  },
+  {
+    "Item": "Mango Pancakes",
+    "Categories": [
+      "Breakfast",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Keema Naan",
+    "Categories": [
+      "North Indian",
+      "Bread",
+      "Non-Veg"
+    ]
+  },
+  {
+    "Item": "Aam Chana Chaat",
+    "Categories": [
+      "Street Food",
+      "Snack",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Chicken Stew",
+    "Categories": [
+      "Kerala",
+      "Non-Veg",
+      "Curry"
+    ]
+  },
+  {
+    "Item": "Methi Malai Murg",
+    "Categories": [
+      "North Indian",
+      "Punjabi",
+      "Non-Veg",
+      "Curry"
+    ]
+  },
+  {
+    "Item": "Mango Mousse",
+    "Categories": [
+      "Dessert",
+      "Mousse",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Pesarattu Pizza",
+    "Categories": [
+      "South Indian",
+      "Pizza",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Chicken Majestic",
+    "Categories": [
+      "South Indian",
+      "Non-Veg",
+      "Appetizer"
+    ]
+  },
+  {
+    "Item": "Besan Ladoo",
+    "Categories": [
+      "Dessert",
+      "Sweet",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Pav Bhaji Pizza",
+    "Categories": [
+      "Street Food",
+      "Pizza",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Chicken Methi Thepla",
+    "Categories": [
+      "North Indian",
+      "Bread",
+      "Non-Veg"
+    ]
+  },
+  {
+    "Item": "Vegetable Manchurian",
+    "Categories": [
+      "Indo-Chinese",
+      "Vegetarian",
+      "Appetizer"
+    ]
+  },
+  {
+    "Item": "Mango Pulissery",
+    "Categories": [
+      "Kerala",
+      "Vegetarian",
+      "Curry"
+    ]
+  },
+  {
+    "Item": "Chicken Keema Pav",
+    "Categories": [
+      "Street Food",
+      "Non-Veg",
+      "Bread"
+    ]
+  },
+  {
+    "Item": "Dum Aloo",
+    "Categories": [
+      "North Indian",
+      "Vegetarian",
+      "Curry"
+    ]
+  },
+  {
+    "Item": "Meen Kuzhambu",
+    "Categories": [
+      "South Indian",
+      "Non-Veg",
+      "Curry"
+    ]
+  },
+  {
+    "Item": "Mango Shrikhand",
+    "Categories": [
+      "Dessert",
+      "Sweet",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Chana Pulao",
+    "Categories": [
+      "North Indian",
+      "Rice",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Chicken Hakka Noodles",
+    "Categories": [
+      "Indo-Chinese",
+      "Noodles",
+      "Non-Veg"
+    ]
+  },
+  {
+    "Item": "Dal Fry",
+    "Categories": [
+      "North Indian",
+      "Vegetarian",
+      "Curry"
+    ]
+  },
+  {
+    "Item": "Nawabi Biryani",
+    "Categories": [
+      "Awadhi",
+      "Non-Veg",
+      "Biryani"
+    ]
+  },
+  {
+    "Item": "Aam Papad",
+    "Categories": [
+      "Dessert",
+      "Sweet",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Egg Keema",
+    "Categories": [
+      "North Indian",
+      "Non-Veg",
+      "Curry"
+    ]
+  },
+  {
+    "Item": "Mango Ice Cream",
+    "Categories": [
+      "Dessert",
+      "Ice Cream",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Murg Malai Kebab",
+    "Categories": [
+      "North Indian",
+      "Punjabi",
+      "Non-Veg",
+      "Kebab"
+    ]
+  },
+  {
+    "Item": "Mango Phulkari",
+    "Categories": [
+      "Beverage",
+      "Drink",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Chicken Sukha",
+    "Categories": [
+      "South Indian",
+      "Non-Veg",
+      "Dry Curry"
+    ]
+  },
+  {
+    "Item": "Gobi Paratha",
+    "Categories": [
+      "North Indian",
+      "Punjabi",
+      "Bread",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Meen Varuval",
+    "Categories": [
+      "South Indian",
+      "Non-Veg",
+      "Fried Items"
+    ]
+  },
+  {
+    "Item": "Mango Podi Idli",
+    "Categories": [
+      "South Indian",
+      "Breakfast",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Chicken Keema Naan",
+    "Categories": [
+      "North Indian",
+      "Bread",
+      "Non-Veg"
+    ]
+  },
+  {
+    "Item": "Kesari Bath",
+    "Categories": [
+      "South Indian",
+      "Dessert",
+      "Sweet",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Chettinad Chicken Curry",
+    "Categories": [
+      "South Indian",
+      "Non-Veg",
+      "Curry"
+    ]
+  },
+  {
+    "Item": "Mango Rabri",
+    "Categories": [
+      "Dessert",
+      "Sweet",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Chapati Noodles",
+    "Categories": [
+      "North Indian",
+      "Chinese",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Chicken Curry Kerala Style",
+    "Categories": [
+      "Kerala",
+      "Non-Veg",
+      "Curry"
+    ]
+  },
+  {
+    "Item": "Bhindi Fry",
+    "Categories": [
+      "North Indian",
+      "Vegetarian",
+      "Fried Items"
+    ]
+  },
+  {
+    "Item": "Mango Sambar",
+    "Categories": [
+      "South Indian",
+      "Vegetarian",
+      "Curry"
+    ]
+  },
+  {
+    "Item": "Kaju Katli",
+    "Categories": [
+      "Dessert",
+      "Sweet",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Palak Chaat",
+    "Categories": [
+      "Street Food",
+      "Snack",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Masoor Dal Khichdi",
+    "Categories": [
+      "North Indian",
+      "Khichdi",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Chicken Tandoori Momos",
+    "Categories": [
+      "Street Food",
+      "Non-Veg",
+      "Momos"
+    ]
+  },
+  {
+    "Item": "Mango Thokku",
+    "Categories": [
+      "South Indian",
+      "Pickle",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Bread Pakora",
+    "Categories": [
+      "Street Food",
+      "Snack",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Chicken Rezala",
+    "Categories": [
+      "Bengali",
+      "Non-Veg",
+      "Curry"
+    ]
+  },
+  {
+    "Item": "Mango Kofta Curry",
+    "Categories": [
+      "North Indian",
+      "Vegetarian",
+      "Curry"
+    ]
+  },
+  {
+    "Item": "Aloo Gajar Matar",
+    "Categories": [
+      "North Indian",
+      "Vegetarian",
+      "Curry"
+    ]
+  },
+  {
+    "Item": "Chicken Keema Biryani",
+    "Categories": [
+      "North Indian",
+      "Biryani",
+      "Non-Veg"
+    ]
+  },
+  {
+    "Item": "Carrot Halwa",
+    "Categories": [
+      "Dessert",
+      "Sweet",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Chingri Malai Curry",
+    "Categories": [
+      "Bengali",
+      "Non-Veg",
+      "Curry"
+    ]
+  },
+  {
+    "Item": "Mango Kheema Paratha",
+    "Categories": [
+      "North Indian",
+      "Punjabi",
+      "Bread",
+      "Non-Veg"
+    ]
+  },
+  {
+    "Item": "Mutton Keema",
+    "Categories": [
+      "North Indian",
+      "Non-Veg",
+      "Curry"
+    ]
+  },
+  {
+    "Item": "Mango Kadhi",
+    "Categories": [
+      "Gujarati",
+      "Vegetarian",
+      "Curry"
+    ]
+  },
+  {
+    "Item": "Chicken Tikka Pizza",
+    "Categories": [
+      "Pizza",
+      "Non-Veg"
+    ]
+  },
+  {
+    "Item": "Dahi Wale Aloo",
+    "Categories": [
+      "North Indian",
+      "Vegetarian",
+      "Curry"
+    ]
+  },
+  {
+    "Item": "Meen Curry",
+    "Categories": [
+      "South Indian",
+      "Non-Veg",
+      "Curry"
+    ]
+  },
+  {
+    "Item": "Mango Cheesecake",
+    "Categories": [
+      "Dessert",
+      "Cheesecake",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Bhindi Kadhi",
+    "Categories": [
+      "North Indian",
+      "Vegetarian",
+      "Curry"
+    ]
+  },
+  {
+    "Item": "Chicken Changezi",
+    "Categories": [
+      "North Indian",
+      "Punjabi",
+      "Non-Veg",
+      "Curry"
+    ]
+  },
+  {
+    "Item": "Mango Ginger Pickle",
+    "Categories": [
+      "South Indian",
+      "Pickle",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Chicken Bhuna",
+    "Categories": [
+      "North Indian",
+      "Punjabi",
+      "Non-Veg",
+      "Curry"
+    ]
+  },
+  {
+    "Item": "Mango Coconut Ladoo",
+    "Categories": [
+      "Dessert",
+      "Sweet",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Chicken Karahi",
+    "Categories": [
+      "North Indian",
+      "Punjabi",
+      "Non-Veg",
+      "Curry"
+    ]
+  },
+  {
+    "Item": "Pineapple Raita",
+    "Categories": [
+      "North Indian",
+      "Punjabi",
+      "Side Dish",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Mango Delight",
+    "Categories": [
+      "Dessert",
+      "Sweet",
+      "Vegetarian"
+    ]
+  },
+  {
+    "Item": "Chicken Tikka Salad",
+    "Categories": [
+      "Non-Veg",
+      "Salad"
+    ]
+  },
+  {
+    "Item": "Peanut Chutney",
+    "Categories": [
+      "South Indian",
+      "Chutney",
+      "Vegetarian"
+    ]
+  }
+]
